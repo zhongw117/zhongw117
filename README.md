@@ -43,7 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhongw117&show_icons=true&locale=en" alt="zhongw117" width="410" /></p>
 
 <hr>
-
+<!-- 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -70,6 +70,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
+-->
 
 
