@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Wilson</h1>
-<h3 align="center">Software Engineer | Fullstack Developer</h3>
+<h3 align="center">Software Engineer | Backend Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/mwlite/in/wei-zhong-14195bb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: zhongw117@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
