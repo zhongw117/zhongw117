@@ -5,10 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Wilson</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 <p align="center">
-  <a href="[您的 PDF 简历的直接链接]" target="_blank">
-    <img src="https://simpleicons.org/icons/adobeacrobatreader.svg" alt="PDF Resume Download" height="30" width="30" />
-    **点击下载我的 PDF 简历**
-  </a>
+
 <a href="https://www.linkedin.com/mwlite/in/wei-zhong-14195bb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: zhongw117@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
