@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Resume button -->
-  <a href="./Wilson-Zhong-Resume.pdf" target="_blank">
+  <a href="./Wilson_Zhong _Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge" />
   </a>
 </p>
