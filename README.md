@@ -25,11 +25,10 @@
 
 ## 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java  
-**Backend:** Node.js, Express, Spring Boot  
+**Languages:** JavaScript, TypeScript, Python, Java  
+**Backend:** Node.js, Express, Django, Kafka
 **Databases:** PostgreSQL, MongoDB, DynamoDB  
 **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-**Others:** Redis, Kafka, REST APIs, Microservices
-
+**Others:** Redis, REST APIs, Microservices
 
 <hr>
