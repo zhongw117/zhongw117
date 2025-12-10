@@ -23,25 +23,13 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zhongw117&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 🧰 Tech Stack
 
-<hr>
+**Languages:** JavaScript, TypeScript, Java  
+**Backend:** Node.js, Express, Spring Boot  
+**Databases:** PostgreSQL, MongoDB, DynamoDB  
+**Cloud & DevOps:** AWS, Docker, GitHub Actions  
+**Others:** Redis, Kafka, REST APIs, Microservices
 
-<p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" /> 
-  <i><b>GitHub Stats</b></i>
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhongw117&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhongw117&show_icons=true&locale=en" width="410" />
-</p>
 
 <hr>
